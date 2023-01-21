@@ -24,6 +24,7 @@ Create a REST based Framework by considering the following:
 - [ ] URL Endpoints
 - [ ] API Versioning
 - [ ] Guidelines on How to Write Code considering the points listed above.
+- [ ] Context
 
 # Phase 2:
 
