@@ -3,7 +3,8 @@ module github.com/heartBrokenGod/beer
 go 1.19
 
 require (
-	github.com/go-sql-driver/mysql v1.7.0
+	github.com/dave/jennifer v1.6.1
+	github.com/heartBrokenGod/errors v0.0.0-20230717173204-eccba6343fce
 	github.com/rs/zerolog v1.28.0
 )
 
